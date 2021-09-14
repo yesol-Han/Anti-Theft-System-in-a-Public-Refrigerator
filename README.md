@@ -10,9 +10,9 @@ reupload https://github.com/yujinkim7123/2020ESWContest_free_1057.git
 - 디바이스 
 <img src="https://user-images.githubusercontent.com/55419946/133347637-6085df71-899d-4d49-82a3-161b105f8f55.jpg" width="60%" height="60%"/>
 - 제어화면
-<img src="https://user-images.githubusercontent.com/55419946/133347697-db22345a-21ab-490e-82ac-d6d766a41f86.png" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/55419946/133347697-db22345a-21ab-490e-82ac-d6d766a41f86.png" width="40%" height="40%"/>
 - 어플리케이션
-<img src="https://user-images.githubusercontent.com/55419946/133347613-4e038b79-2d0f-48bd-9a21-bebe86db5b38.jpg" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/55419946/133347613-4e038b79-2d0f-48bd-9a21-bebe86db5b38.jpg" width="40%" height="40%"/>
 - 웹페이지
 <img src="https://user-images.githubusercontent.com/55419946/133347621-d89f06d4-4783-4300-a851-b43cb1db7aff.png" width="60%" height="60%"/>
 
