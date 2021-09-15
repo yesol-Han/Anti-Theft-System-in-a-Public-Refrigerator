@@ -7,6 +7,7 @@ reupload https://github.com/yujinkim7123/2020ESWContest_free_1057.git
 + 2020 공대학술제
 + 2020 SCH미디어랩스 학술제
 
+# 
 - 디바이스 
 <img src="https://user-images.githubusercontent.com/55419946/133347637-6085df71-899d-4d49-82a3-161b105f8f55.jpg" width="60%" height="60%"/>
 - 제어화면
